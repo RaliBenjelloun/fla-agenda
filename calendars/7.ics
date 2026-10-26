@@ -1,0 +1,550 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fla-calendar//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:⚽ AtlasLion FC
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:fla-7-20260919-asccontrlesdsorients@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20260919T200000
+DTEND;TZID=Europe/Paris:20260919T210000
+SUMMARY:⚽ A.S.C. CONTRÔLES DÉSORIENTÉS vs AtlasLion (10-3 V)
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°1) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Coupe A 7 SAMEDI — Phase de poules · Extérieur\nSource : ht
+ tps://football-loisir-amateur.fr/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20260926-mdjfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20260926T200000
+DTEND;TZID=Europe/Paris:20260926T210000
+SUMMARY:⚽ MDJ FC vs AtlasLion (4-3 V)
+LOCATION:Stade Emile Antoine 2 Av. de Suffren\, 75007 Paris\, 75007\, Paris
+DESCRIPTION:Coupe A 7 SAMEDI — Phase de poules · Extérieur\nSource : ht
+ tps://football-loisir-amateur.fr/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261003-demosfootballclub@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261003T200000
+DTEND;TZID=Europe/Paris:20261003T210000
+SUMMARY:⚽ AtlasLion vs DEMOS FOOTBALL CLUB (1-2 D)
+LOCATION:Stade Charles Rigoulot 18 Av. de la Prte Brancion\, 75015\, Paris
+DESCRIPTION:Coupe A 7 SAMEDI — Phase de poules · Domicile\nSource : http
+ s://football-loisir-amateur.fr/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261010-ifcgenerationimpact@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261010T200000
+DTEND;TZID=Europe/Paris:20261010T210000
+SUMMARY:⚽ IFC GENERATION IMPACT vs AtlasLion (3-4 D)
+LOCATION:Parc Sportif parisien de Puteaux (Terrain nº2) 2 allée des Sport
+ s 92801 Puteaux\, 92801\, Puteaux
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 1 · Aller · Extérieur\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261017-ttecrameefc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261017T190000
+DTEND;TZID=Europe/Paris:20261017T200000
+SUMMARY:⚽ AtlasLion vs TÊTE CRAMEE FC (3-3 N)
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°2) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 2 · Aller · Domicile\nSource : https://football-loisir-amateur.fr/te
+ ams/7
+URL:https://football-loisir-amateur.fr/teams/7
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261024-ttecrameefc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261024T200000
+DTEND;TZID=Europe/Paris:20261024T210000
+SUMMARY:⚽ AtlasLion vs TÊTE CRAMEE FC (2-2 N)
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°1) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat 1ère division Elite Vue d'ensemble Aperçu Matchs 
+ Statistiques Stats 19 Joueurs 2 Victoires 2 Nuls 2 Défaites Derniers matc
+ hs Coupe COUPE A 7 SAMEDI — 8èmes de finale · Domicile\nSource : https
+ ://football-loisir-amateur.fr/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261031-pastafc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261031T190000
+DTEND;TZID=Europe/Paris:20261031T200000
+SUMMARY:⚽ AtlasLion vs PASTA FC
+LOCATION:Centre Sportif Léon Biancotto 6 Avenue de la Porte de Clichy\, 75
+ 017 Paris\, 75017\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 3 · Aller · Domicile\nSource : https://football-loisir-amateur.fr/te
+ ams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261107-arzfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261107T190000
+DTEND;TZID=Europe/Paris:20261107T200000
+SUMMARY:⚽ ARZ FC vs AtlasLion
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°1) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 4 · Aller · Extérieur\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261114-fcparisclichyc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261114T190000
+DTEND;TZID=Europe/Paris:20261114T200000
+SUMMARY:⚽ FC PARIS CLICHY C vs AtlasLion
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°1) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 5 · Aller · Extérieur\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261121-fcparis17@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261121T190000
+DTEND;TZID=Europe/Paris:20261121T200000
+SUMMARY:⚽ AtlasLion vs FC PARIS 17
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 6 · Aller · Domicile\nSource : https://football-loisir-amateur.fr/te
+ ams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261128-mdjfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261128T190000
+DTEND;TZID=Europe/Paris:20261128T200000
+SUMMARY:⚽ AtlasLion vs MDJ FC
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 7 · Aller · Domicile\nSource : https://football-loisir-amateur.fr/te
+ ams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261205-blackpanamafc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261205T190000
+DTEND;TZID=Europe/Paris:20261205T200000
+SUMMARY:⚽ AtlasLion vs BLACK PANAMA FC
+LOCATION:Centre Sportif Léon Biancotto 6 Avenue de la Porte de Clichy\, 75
+ 017 Paris\, 75017\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 10 · Aller · Domicile\nSource : https://football-loisir-amateur.fr/t
+ eams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20261212-occitanfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20261212T200000
+DTEND;TZID=Europe/Paris:20261212T210000
+SUMMARY:⚽ OCCITAN FC vs AtlasLion
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°1) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 9 · Aller · Extérieur\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270109-demosfootballclub@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270109T190000
+DTEND;TZID=Europe/Paris:20270109T200000
+SUMMARY:⚽ DEMOS FOOTBALL CLUB vs AtlasLion
+LOCATION:Centre Sportif Léon Biancotto 6 Avenue de la Porte de Clichy\, 75
+ 017 Paris\, 75017\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 23 · Retour · Extérieur\nSource : https://football-loisir-amateur.f
+ r/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270116-occitanfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270116T190000
+DTEND;TZID=Europe/Paris:20270116T200000
+SUMMARY:⚽ OCCITAN FC vs AtlasLion
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Coupe A 7 SAMEDI — Quarts de finale · Extérieur\nSource : h
+ ttps://football-loisir-amateur.fr/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270123-demosfootballclub@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270123T190000
+DTEND;TZID=Europe/Paris:20270123T200000
+SUMMARY:⚽ AtlasLion vs DEMOS FOOTBALL CLUB
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 11 · Aller · Domicile\nSource : https://football-loisir-amateur.fr/t
+ eams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270130-tsfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270130T200000
+DTEND;TZID=Europe/Paris:20270130T210000
+SUMMARY:⚽ TS FC vs AtlasLion
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 12 · Aller · Extérieur\nSource : https://football-loisir-amateur.fr
+ /teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270213-letirascbbb@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270213T200000
+DTEND;TZID=Europe/Paris:20270213T210000
+SUMMARY:⚽ LE TIR ASCBB B vs AtlasLion
+LOCATION:Parc Sportif parisien de Puteaux (Terrain nº2) 2 allée des Sport
+ s 92801 Puteaux\, 92801\, Puteaux
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 13 · Aller · Extérieur\nSource : https://football-loisir-amateur.fr
+ /teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270220-letirascbbb@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270220T190000
+DTEND;TZID=Europe/Paris:20270220T200000
+SUMMARY:⚽ AtlasLion vs LE TIR ASCBB B
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 14 · Retour · Domicile\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270227-fcparis17@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270227T200000
+DTEND;TZID=Europe/Paris:20270227T210000
+SUMMARY:⚽ FC PARIS 17 vs AtlasLion
+LOCATION:Centre Sportif Léon Biancotto 6 Avenue de la Porte de Clichy\, 75
+ 017 Paris\, 75017\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 15 · Retour · Extérieur\nSource : https://football-loisir-amateur.f
+ r/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270306-pastafc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270306T200000
+DTEND;TZID=Europe/Paris:20270306T210000
+SUMMARY:⚽ PASTA FC vs AtlasLion
+LOCATION:Centre Sportif Léon Biancotto 6 Avenue de la Porte de Clichy\, 75
+ 017 Paris\, 75017\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 16 · Retour · Extérieur\nSource : https://football-loisir-amateur.f
+ r/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270313-arzfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270313T190000
+DTEND;TZID=Europe/Paris:20270313T200000
+SUMMARY:⚽ AtlasLion vs ARZ FC
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 17 · Retour · Domicile\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270320-ttecrameefc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270320T190000
+DTEND;TZID=Europe/Paris:20270320T200000
+SUMMARY:⚽ TÊTE CRAMEE FC vs AtlasLion
+LOCATION:Parc Sportif parisien de Puteaux (Terrain nº2) 2 allée des Sport
+ s 92801 Puteaux\, 92801\, Puteaux
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 18 · Retour · Extérieur\nSource : https://football-loisir-amateur.f
+ r/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270327-tsfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270327T190000
+DTEND;TZID=Europe/Paris:20270327T200000
+SUMMARY:⚽ AtlasLion vs TS FC
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 19 · Retour · Domicile\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270403-occitanfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270403T200000
+DTEND;TZID=Europe/Paris:20270403T210000
+SUMMARY:⚽ AtlasLion vs OCCITAN FC
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 21 · Retour · Domicile\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270410-mdjfc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270410T200000
+DTEND;TZID=Europe/Paris:20270410T210000
+SUMMARY:⚽ MDJ FC vs AtlasLion
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°1) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 20 · Retour · Extérieur\nSource : https://football-loisir-amateur.f
+ r/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270424-fcps@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270424T190000
+DTEND;TZID=Europe/Paris:20270424T200000
+SUMMARY:⚽ AtlasLion vs FCPS
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 22 · Retour · Domicile\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270515-ifcgenerationimpact@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270515T190000
+DTEND;TZID=Europe/Paris:20270515T200000
+SUMMARY:⚽ AtlasLion vs IFC GENERATION IMPACT
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 24 · Retour · Domicile\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270522-blackpanamafc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270522T190000
+DTEND;TZID=Europe/Paris:20270522T200000
+SUMMARY:⚽ BLACK PANAMA FC vs AtlasLion
+LOCATION:Centre Sportif Léon Biancotto 6 Avenue de la Porte de Clichy\, 75
+ 017 Paris\, 75017\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 25 · Retour · Extérieur\nSource : https://football-loisir-amateur.f
+ r/teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270529-fcparisclichyc@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270529T190000
+DTEND;TZID=Europe/Paris:20270529T200000
+SUMMARY:⚽ AtlasLion vs FC PARIS CLICHY C
+LOCATION:Centre Sportif Suzanne Lenglen (Terrain n°3) 2 rue Louis Armand 7
+ 5015 Paris\, 75015\, Paris
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 26 · Retour · Domicile\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fla-7-20270612-fcps@fla-calendar
+DTSTAMP:20261026T164145Z
+DTSTART;TZID=Europe/Paris:20270612T200000
+DTEND;TZID=Europe/Paris:20270612T210000
+SUMMARY:⚽ FCPS vs AtlasLion
+LOCATION:Parc Sportif parisien de Puteaux (Terrain nº2) 2 allée des Sport
+ s 92801 Puteaux\, 92801\, Puteaux
+DESCRIPTION:Championnat Foot à 7 - Samedi - 1ère division Elite · Journ
+ ée 8 · Aller · Extérieur\nSource : https://football-loisir-amateur.fr/
+ teams/7
+URL:https://football-loisir-amateur.fr/teams/7
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Match de foot
+TRIGGER:-PT120M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
